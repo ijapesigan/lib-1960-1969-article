@@ -1,7 +1,7 @@
 lib-1960-1969-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-12
+2024-04-18
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -23,6 +23,14 @@ line-spacing="2">
 Goodman, L. A. (1960). On the exact variance of products. *Journal of
 the American Statistical Association*, *55*(292), 708–713.
 <https://doi.org/10.1080/01621459.1960.10483369>
+
+</div>
+
+<div id="ref-Granger-1969" class="csl-entry">
+
+Granger, C. W. J. (1969). Investigating causal relations by econometric
+models and cross-spectral methods. *Econometrica*, *37*(3), 424.
+<https://doi.org/10.2307/1912791>
 
 </div>
 
