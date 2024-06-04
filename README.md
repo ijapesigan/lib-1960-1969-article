@@ -1,7 +1,7 @@
 lib-1960-1969-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-22
+2024-06-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -17,6 +17,14 @@ Check](https://github.com/ijapesigan/lib-1960-1969-article/actions/workflows/she
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 entry-spacing="0" line-spacing="2">
+
+<div id="ref-Duncan-1969" class="csl-entry">
+
+Duncan, O. D. (1969). Some linear models for two-wave, two-variable
+panel analysis. *Psychological Bulletin*, *72*(3), 177–182.
+<https://doi.org/10.1037/h0027876>
+
+</div>
 
 <div id="ref-Goodman-1960" class="csl-entry">
 
