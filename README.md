@@ -1,7 +1,7 @@
 lib-1960-1969-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-02
+2026-11-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -20,6 +20,13 @@ Check](https://github.com/ijapesigan/lib-1960-1969-article/actions/workflows/non
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2">
+
+<div id="ref-Browne-1969" class="csl-entry">
+
+Browne, M. W. (1969). Precision of prediction. *ETS Research Bulletin
+Series*, *1969*(2). <https://doi.org/10.1002/j.2333-8504.1969.tb00748.x>
+
+</div>
 
 <div id="ref-Duncan-1969" class="csl-entry">
 
